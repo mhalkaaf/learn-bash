@@ -1,0 +1,8 @@
+Filesystem              Type      Size  Used Avail Use% Mounted on
+devtmpfs                devtmpfs  736M     0  736M   0% /dev
+tmpfs                   tmpfs     748M     0  748M   0% /dev/shm
+tmpfs                   tmpfs     748M   82M  667M  11% /run
+tmpfs                   tmpfs     748M     0  748M   0% /sys/fs/cgroup
+/dev/mapper/centos-root xfs        46G  7.2G   39G  16% /
+/dev/sda1               xfs      1014M  171M  844M  17% /boot
+tmpfs                   tmpfs     150M     0  150M   0% /run/user/1000
